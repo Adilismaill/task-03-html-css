@@ -79,6 +79,7 @@
 .anchortag{
     padding-left: 100px;
     padding-top: -50px;
+    text-decoration: none;
 }
 .anchortag:hover{
     color: red;
@@ -90,6 +91,7 @@
 }
 .newuser a{
     color: red;
+    text-decoration: none;
 }
 .newuser a:hover{
     color: blue;
